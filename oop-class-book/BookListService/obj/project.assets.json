@@ -1,0 +1,132 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BuildTools.FxCop/1.0.1": {
+        "type": "package"
+      },
+      "BookClass/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "BuildTools.FxCop": "1.0.1",
+          "VerificationService": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BookClass.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookClass.dll": {}
+        }
+      },
+      "VerificationService/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/VerificationService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VerificationService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BuildTools.FxCop/1.0.1": {
+      "sha512": "Twlhrm23jXmYSlMf7C7154ZhmgQaqn2fdVgAQzf4vTitJkobpoaV1JgjFQXk3CPdCajZUzCA6oHWhZsXwqB8CQ==",
+      "type": "package",
+      "path": "buildtools.fxcop/1.0.1",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "buildtools.fxcop.1.0.1.nupkg.sha512",
+        "buildtools.fxcop.nuspec",
+        "content/CodeAnalysisRules.ruleset",
+        "tools/BuildTools.MsBuild.psm1",
+        "tools/FxCop.psm1",
+        "tools/Install.ps1",
+        "tools/Uninstall.ps1",
+        "tools/init.ps1"
+      ]
+    },
+    "BookClass/1.0.0": {
+      "type": "project",
+      "path": "../BookClass/BookClass.csproj",
+      "msbuildProject": "../BookClass/BookClass.csproj"
+    },
+    "VerificationService/1.0.0": {
+      "type": "project",
+      "path": "../VerificationService/VerificationService.csproj",
+      "msbuildProject": "../VerificationService/VerificationService.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "BookClass >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\sgolu\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\sgolu\\RiderProjects\\oop-class-book\\BookListService\\BookListService.csproj",
+      "projectName": "BookListService",
+      "projectPath": "C:\\Users\\sgolu\\RiderProjects\\oop-class-book\\BookListService\\BookListService.csproj",
+      "packagesPath": "C:\\Users\\sgolu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sgolu\\RiderProjects\\oop-class-book\\BookListService\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\sgolu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\sgolu\\RiderProjects\\oop-class-book\\BookClass\\BookClass.csproj": {
+              "projectPath": "C:\\Users\\sgolu\\RiderProjects\\oop-class-book\\BookClass\\BookClass.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

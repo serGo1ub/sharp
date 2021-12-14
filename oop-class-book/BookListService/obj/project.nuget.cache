@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L75CWP/7+SJkRZKhDFyJdkmQo68j7DKzQJfDn6KPGtJmOXHYNSv3LtgDrqmCrRCY9r0fl87y18bjIJ8jJGI56g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sgolu\\RiderProjects\\oop-class-book\\BookListService\\BookListService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sgolu\\.nuget\\packages\\buildtools.fxcop\\1.0.1\\buildtools.fxcop.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

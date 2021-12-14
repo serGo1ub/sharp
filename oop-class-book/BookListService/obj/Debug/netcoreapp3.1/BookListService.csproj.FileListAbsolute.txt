@@ -1,0 +1,14 @@
+C:\Users\sgolu\RiderProjects\oop-class-book\BookListService\bin\Debug\netcoreapp3.1\BookListService.deps.json
+C:\Users\sgolu\RiderProjects\oop-class-book\BookListService\bin\Debug\netcoreapp3.1\BookListService.dll
+C:\Users\sgolu\RiderProjects\oop-class-book\BookListService\bin\Debug\netcoreapp3.1\BookListService.pdb
+C:\Users\sgolu\RiderProjects\oop-class-book\BookListService\bin\Debug\netcoreapp3.1\BookClass.dll
+C:\Users\sgolu\RiderProjects\oop-class-book\BookListService\bin\Debug\netcoreapp3.1\VerificationService.dll
+C:\Users\sgolu\RiderProjects\oop-class-book\BookListService\bin\Debug\netcoreapp3.1\BookClass.pdb
+C:\Users\sgolu\RiderProjects\oop-class-book\BookListService\bin\Debug\netcoreapp3.1\VerificationService.pdb
+C:\Users\sgolu\RiderProjects\oop-class-book\BookListService\obj\Debug\netcoreapp3.1\BookListService.csproj.AssemblyReference.cache
+C:\Users\sgolu\RiderProjects\oop-class-book\BookListService\obj\Debug\netcoreapp3.1\BookListService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgolu\RiderProjects\oop-class-book\BookListService\obj\Debug\netcoreapp3.1\BookListService.AssemblyInfoInputs.cache
+C:\Users\sgolu\RiderProjects\oop-class-book\BookListService\obj\Debug\netcoreapp3.1\BookListService.AssemblyInfo.cs
+C:\Users\sgolu\RiderProjects\oop-class-book\BookListService\obj\Debug\netcoreapp3.1\BookListService.csproj.CoreCompileInputs.cache
+C:\Users\sgolu\RiderProjects\oop-class-book\BookListService\obj\Debug\netcoreapp3.1\BookListService.dll
+C:\Users\sgolu\RiderProjects\oop-class-book\BookListService\obj\Debug\netcoreapp3.1\BookListService.pdb

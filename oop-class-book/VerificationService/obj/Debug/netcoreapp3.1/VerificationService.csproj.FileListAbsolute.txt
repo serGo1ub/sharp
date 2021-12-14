@@ -1,0 +1,10 @@
+C:\Users\sgolu\RiderProjects\oop-class-book\VerificationService\bin\Debug\netcoreapp3.1\VerificationService.deps.json
+C:\Users\sgolu\RiderProjects\oop-class-book\VerificationService\bin\Debug\netcoreapp3.1\VerificationService.dll
+C:\Users\sgolu\RiderProjects\oop-class-book\VerificationService\bin\Debug\netcoreapp3.1\VerificationService.pdb
+C:\Users\sgolu\RiderProjects\oop-class-book\VerificationService\obj\Debug\netcoreapp3.1\VerificationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgolu\RiderProjects\oop-class-book\VerificationService\obj\Debug\netcoreapp3.1\VerificationService.AssemblyInfoInputs.cache
+C:\Users\sgolu\RiderProjects\oop-class-book\VerificationService\obj\Debug\netcoreapp3.1\VerificationService.AssemblyInfo.cs
+C:\Users\sgolu\RiderProjects\oop-class-book\VerificationService\obj\Debug\netcoreapp3.1\VerificationService.csproj.CoreCompileInputs.cache
+C:\Users\sgolu\RiderProjects\oop-class-book\VerificationService\obj\Debug\netcoreapp3.1\VerificationService.dll
+C:\Users\sgolu\RiderProjects\oop-class-book\VerificationService\obj\Debug\netcoreapp3.1\VerificationService.pdb
+C:\Users\sgolu\RiderProjects\oop-class-book\VerificationService\obj\Debug\netcoreapp3.1\VerificationService.csproj.AssemblyReference.cache

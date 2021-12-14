@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <AdditionalFiles Include="..\code-analysis.ruleset">
+        <Link>Properties\code-analysis.ruleset</Link>
+      </AdditionalFiles>
+      <AdditionalFiles Include="..\stylecop.json">
+        <Link>Properties\stylecop.json</Link>
+      </AdditionalFiles>
+    </ItemGroup>
+
+</Project>

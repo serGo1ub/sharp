@@ -1,0 +1,12 @@
+C:\Users\sgolu\RiderProjects\oop-class-book\BookClass\bin\Debug\netcoreapp3.1\BookClass.deps.json
+C:\Users\sgolu\RiderProjects\oop-class-book\BookClass\bin\Debug\netcoreapp3.1\BookClass.dll
+C:\Users\sgolu\RiderProjects\oop-class-book\BookClass\bin\Debug\netcoreapp3.1\BookClass.pdb
+C:\Users\sgolu\RiderProjects\oop-class-book\BookClass\bin\Debug\netcoreapp3.1\VerificationService.dll
+C:\Users\sgolu\RiderProjects\oop-class-book\BookClass\bin\Debug\netcoreapp3.1\VerificationService.pdb
+C:\Users\sgolu\RiderProjects\oop-class-book\BookClass\obj\Debug\netcoreapp3.1\BookClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgolu\RiderProjects\oop-class-book\BookClass\obj\Debug\netcoreapp3.1\BookClass.AssemblyInfoInputs.cache
+C:\Users\sgolu\RiderProjects\oop-class-book\BookClass\obj\Debug\netcoreapp3.1\BookClass.AssemblyInfo.cs
+C:\Users\sgolu\RiderProjects\oop-class-book\BookClass\obj\Debug\netcoreapp3.1\BookClass.csproj.CoreCompileInputs.cache
+C:\Users\sgolu\RiderProjects\oop-class-book\BookClass\obj\Debug\netcoreapp3.1\BookClass.dll
+C:\Users\sgolu\RiderProjects\oop-class-book\BookClass\obj\Debug\netcoreapp3.1\BookClass.pdb
+C:\Users\sgolu\RiderProjects\oop-class-book\BookClass\obj\Debug\netcoreapp3.1\BookClass.csproj.AssemblyReference.cache

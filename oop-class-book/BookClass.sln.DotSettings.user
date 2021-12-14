@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=70f4c14c_002Dd3d3_002D4eeb_002Dbc04_002De4e37904ad7c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="BookTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6DB9544D-E2A9-4AC5-96E5-D1079E18C745::.NETCoreApp,Version=v3.1::BookClass.Tests.BookTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0F3ACDC0-2175-410F-8DAF-E41A37EF3D22::.NETCoreApp,Version=v3.1::VerificationService.Tests.VerificationTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FB0BBD63-00CD-4440-BE38-176745936B63::.NETCoreApp,Version=v3.1::BookListService.Tests.BookServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FB0BBD63-00CD-4440-BE38-176745936B63::.NETCoreApp,Version=v3.1::BookListService.Tests.BookListServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
