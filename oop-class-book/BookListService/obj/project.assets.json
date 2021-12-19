@@ -73,11 +73,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sgolu\\RiderProjects\\oop-class-book\\BookListService\\BookListService.csproj",
+      "projectUniqueName": "D:\\testing\\fold\\sharp\\oop-class-book\\BookListService\\BookListService.csproj",
       "projectName": "BookListService",
-      "projectPath": "C:\\Users\\sgolu\\RiderProjects\\oop-class-book\\BookListService\\BookListService.csproj",
+      "projectPath": "D:\\testing\\fold\\sharp\\oop-class-book\\BookListService\\BookListService.csproj",
       "packagesPath": "C:\\Users\\sgolu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sgolu\\RiderProjects\\oop-class-book\\BookListService\\obj\\",
+      "outputPath": "D:\\testing\\fold\\sharp\\oop-class-book\\BookListService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -95,8 +95,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\sgolu\\RiderProjects\\oop-class-book\\BookClass\\BookClass.csproj": {
-              "projectPath": "C:\\Users\\sgolu\\RiderProjects\\oop-class-book\\BookClass\\BookClass.csproj"
+            "D:\\testing\\fold\\sharp\\oop-class-book\\BookClass\\BookClass.csproj": {
+              "projectPath": "D:\\testing\\fold\\sharp\\oop-class-book\\BookClass\\BookClass.csproj"
             }
           }
         }

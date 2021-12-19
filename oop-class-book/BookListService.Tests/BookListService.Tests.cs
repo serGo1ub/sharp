@@ -65,8 +65,8 @@ namespace BookListService.Tests
             bookListService.Add(book3);
             bookListService.Add(book4);
             bookListService.Add(book5);
-
-            List<Book> list = bookListService.FindByAuthor(author);
+            
+            List<Book> list = bookListService.FindBy(book => book.Author.Equals(author));
 
             Assert.IsTrue(list.Contains(book2) && list.Contains(book5) && list.Count == 2);
         }
@@ -82,13 +82,14 @@ namespace BookListService.Tests
             Book book4 = new Book(string.Empty, string.Empty, string.Empty);
             Book book5 = new Book("Kyle Simpson", title, string.Empty);
 
+            
             bookListService.Add(book1);
             bookListService.Add(book2);
             bookListService.Add(book3);
             bookListService.Add(book4);
             bookListService.Add(book5);
-
-            List<Book> list = bookListService.FindByTitle(title);
+            
+            List<Book> list = bookListService.FindBy(book => book.Title.Equals(title));
 
             Assert.IsTrue(list.Contains(book3) && list.Contains(book5) && list.Count == 2);
         }
@@ -109,8 +110,8 @@ namespace BookListService.Tests
             bookListService.Add(book3);
             bookListService.Add(book4);
             bookListService.Add(book5);
-
-            List<Book> list = bookListService.FindByPublisher(publisher);
+            
+            List<Book> list = bookListService.FindBy(book => book.Publisher.Equals(publisher));
 
             Assert.IsTrue(list.Contains(book1) && list.Count == 1);
         }
@@ -127,8 +128,8 @@ namespace BookListService.Tests
             bookListService.Add(book1);
             bookListService.Add(book2);
             bookListService.Add(book3);
-
-            List<Book> list = bookListService.GetBy("Author");
+            
+            List<Book> list = bookListService.GetBy(new AuthorComparator());
 
             Assert.IsTrue(list[0] == book2 && list[1] == book3 && list[2] == book1);
         }
@@ -145,8 +146,8 @@ namespace BookListService.Tests
             bookListService.Add(book1);
             bookListService.Add(book2);
             bookListService.Add(book3);
-
-            List<Book> list = bookListService.GetBy("Pages");
+            
+            List<Book> list = bookListService.GetBy(new PagesComparator());
 
             Assert.IsTrue(list[0] == book2 && list[1] == book3 && list[2] == book1);
         }
@@ -168,7 +169,7 @@ namespace BookListService.Tests
             bookListService.Add(book2);
             bookListService.Add(book3);
 
-            List<Book> list = bookListService.GetBy("Price");
+            List<Book> list = bookListService.GetBy(new PriceComparator());
 
             Assert.IsTrue(list[0] == book2 && list[1] == book3 && list[2] == book1);
         }

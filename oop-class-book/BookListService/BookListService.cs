@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using BookClass;
 
 namespace BookListService
@@ -7,11 +8,6 @@ namespace BookListService
     public class BookListService
     {
         private Dictionary<int, Book> BookList = new Dictionary<int, Book>();
-
-        public Dictionary<int, Book> GetBookList()
-        {
-            return BookList;
-        }
 
         public bool isEmpty()
         {
@@ -50,74 +46,16 @@ namespace BookListService
             }
 
         }
-        public List<Book> FindByAuthor(string Author)
+        
+        public List<Book> FindBy(Predicate<Book> predicate)
         {
-            List<Book> books = new List<Book>();
-
-            foreach (var bookItem in BookList)
-            {
-                if (bookItem.Value.Author.Equals(Author))
-                {
-                    books.Add(bookItem.Value);
-                }
-            }
-
-            return books;
+            return BookList.Values.ToList().FindAll(predicate);
         }
 
-        public List<Book> FindByTitle(string Title)
+        public List<Book> GetBy(IComparer<Book> comparer)
         {
-            List<Book> books = new List<Book>();
-
-            foreach (var bookItem in BookList)
-            {
-                if (bookItem.Value.Title.Equals(Title))
-                {
-                    books.Add(bookItem.Value);
-                }
-            }
-
-            return books;
-        }
-
-        public List<Book> FindByPublisher(string Publisher)
-        {
-            List<Book> books = new List<Book>();
-
-            foreach (var bookItem in BookList)
-            {
-                if (bookItem.Value.Publisher.Equals(Publisher))
-                {
-                    books.Add(bookItem.Value);
-                }
-            }
-
-            return books;
-        }
-        public List<Book> GetBy(string fieldName)
-        {
-            List<Book> books = new List<Book>();
-
-            foreach (var bookItem in BookList)
-            {
-                books.Add(bookItem.Value);   
-            }
-
-            if (fieldName == "Author")
-            {
-                books.Sort(new AuthorComparator());                
-            } else if (fieldName == "Pages")
-            {
-                books.Sort(new PagesComparator());
-            } else if (fieldName == "Price")
-            {
-                books.Sort(new PriceComparator());
-            }
-            else
-            {
-                return books;
-            }
-
+            List<Book> books = BookList.Values.ToList();
+            books.Sort(comparer);
             return books;
         }
 

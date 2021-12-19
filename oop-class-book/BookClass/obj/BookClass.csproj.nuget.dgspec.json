@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sgolu\\RiderProjects\\oop-class-book\\BookClass\\BookClass.csproj": {}
+    "D:\\testing\\fold\\sharp\\oop-class-book\\BookClass\\BookClass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sgolu\\RiderProjects\\oop-class-book\\BookClass\\BookClass.csproj": {
+    "D:\\testing\\fold\\sharp\\oop-class-book\\BookClass\\BookClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sgolu\\RiderProjects\\oop-class-book\\BookClass\\BookClass.csproj",
+        "projectUniqueName": "D:\\testing\\fold\\sharp\\oop-class-book\\BookClass\\BookClass.csproj",
         "projectName": "BookClass",
-        "projectPath": "C:\\Users\\sgolu\\RiderProjects\\oop-class-book\\BookClass\\BookClass.csproj",
+        "projectPath": "D:\\testing\\fold\\sharp\\oop-class-book\\BookClass\\BookClass.csproj",
         "packagesPath": "C:\\Users\\sgolu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sgolu\\RiderProjects\\oop-class-book\\BookClass\\obj\\",
+        "outputPath": "D:\\testing\\fold\\sharp\\oop-class-book\\BookClass\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -29,8 +29,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\sgolu\\RiderProjects\\oop-class-book\\VerificationService\\VerificationService.csproj": {
-                "projectPath": "C:\\Users\\sgolu\\RiderProjects\\oop-class-book\\VerificationService\\VerificationService.csproj"
+              "D:\\testing\\fold\\sharp\\oop-class-book\\VerificationService\\VerificationService.csproj": {
+                "projectPath": "D:\\testing\\fold\\sharp\\oop-class-book\\VerificationService\\VerificationService.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\sgolu\\RiderProjects\\oop-class-book\\VerificationService\\VerificationService.csproj": {
+    "D:\\testing\\fold\\sharp\\oop-class-book\\VerificationService\\VerificationService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sgolu\\RiderProjects\\oop-class-book\\VerificationService\\VerificationService.csproj",
+        "projectUniqueName": "D:\\testing\\fold\\sharp\\oop-class-book\\VerificationService\\VerificationService.csproj",
         "projectName": "VerificationService",
-        "projectPath": "C:\\Users\\sgolu\\RiderProjects\\oop-class-book\\VerificationService\\VerificationService.csproj",
+        "projectPath": "D:\\testing\\fold\\sharp\\oop-class-book\\VerificationService\\VerificationService.csproj",
         "packagesPath": "C:\\Users\\sgolu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sgolu\\RiderProjects\\oop-class-book\\VerificationService\\obj\\",
+        "outputPath": "D:\\testing\\fold\\sharp\\oop-class-book\\VerificationService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Q34v3K8hPSWN/j9VJ8icKU03F7HNKT4ymlSYJna8cyaM4IhuV9xnDT1f7CSPPkPWloUR8ZtNZ7vpg57a6C2dw==",
+  "dgSpecHash": "JgYGdo+34mlizWgQVQFACB6rrdTbjryKNvRu86J14cmWSxmmYeZKmAnrsFl6mCnYmJcaHN3yTWkZppZQ84GAlA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sgolu\\RiderProjects\\oop-class-book\\BookListService.Tests\\BookListService.Tests.csproj",
+  "projectFilePath": "D:\\testing\\fold\\sharp\\oop-class-book\\BookListService.Tests\\BookListService.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sgolu\\.nuget\\packages\\buildtools.fxcop\\1.0.1\\buildtools.fxcop.1.0.1.nupkg.sha512",
     "C:\\Users\\sgolu\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",

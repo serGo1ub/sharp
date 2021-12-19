@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TzvC+w4MOZTFg5WgQmrA9JPLRMbHYy1CNsztsspZLsrj4uav46+Ana6TQetnom3kkhQPQqaSsz7oRVUGB0sZEA==",
+  "dgSpecHash": "1GVkOJ2rvJO/XNonmpNsRmblL3cL3oSMZBnVq0Ax4lX6Tz8UGD+aO6Bvw+Q8vfuQz6TJc2rG+ib/yBvgf6I+Lg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sgolu\\RiderProjects\\oop-class-book\\VerificationService.Tests\\VerificationService.Tests.csproj",
+  "projectFilePath": "D:\\testing\\fold\\sharp\\oop-class-book\\VerificationService.Tests\\VerificationService.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sgolu\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\sgolu\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

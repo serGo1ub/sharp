@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L75CWP/7+SJkRZKhDFyJdkmQo68j7DKzQJfDn6KPGtJmOXHYNSv3LtgDrqmCrRCY9r0fl87y18bjIJ8jJGI56g==",
+  "dgSpecHash": "zQ0a/IovLqZyIQTT116NuZixkeQTF93kGtEHmOdmZlsrGzTpC5C5LYKMTecbH07K86YQ3Oa0qdcCDZXTigE+jQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sgolu\\RiderProjects\\oop-class-book\\BookListService\\BookListService.csproj",
+  "projectFilePath": "D:\\testing\\fold\\sharp\\oop-class-book\\BookListService\\BookListService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sgolu\\.nuget\\packages\\buildtools.fxcop\\1.0.1\\buildtools.fxcop.1.0.1.nupkg.sha512"
   ],
